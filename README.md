@@ -50,7 +50,7 @@ I’m a self-taught MERN stack developer with 3+ years of learning experience. I
 ---
 
 ## 🌱 Currently Learning
-- Mastering Express, Mongoose, and advanced MongoDB
+- Mastering Express, Mongoose, and advanced MongoDB,Redux and Typescript
 - Practicing deployment and API automation
 
 ---
