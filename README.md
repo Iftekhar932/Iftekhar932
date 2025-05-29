@@ -30,6 +30,7 @@ I’m a self-taught MERN stack developer with 3+ years of learning experience. I
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-563D7C?style=flat&logo=Typescript&logoColor=white)
 
 ### 🧰 Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
