@@ -57,6 +57,6 @@ I’m a self-taught MERN stack developer with 3+ years of learning experience. I
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](#) *(add link if available)*
+- 💼 [LinkedIn](#) *([add link if available](https://www.linkedin.com/in/iftekharaziz967/))*
 - 📁 [Portfolio](https://iftekhar932.github.io/)
 - 🗂️ [All Projects → GitHub](https://github.com/Iftekhar932)
