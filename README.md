@@ -1,4 +1,4 @@
-# 👋 Assalamu Alaikum! I'm Iftekhar Bin Aziz
+# 👋! I'm Iftekhar Bin Aziz
 
 💻 MERN Stack Web Developer | 🌍 Chattogram, Bangladesh  
 📧 iftekharaziz932@gmail.com
